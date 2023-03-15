@@ -12,8 +12,19 @@
 
 ![image](https://user-images.githubusercontent.com/106157524/225254864-0c2fe5f5-c1c1-4d95-8c53-956b9be93db5.png)
 
+5. Go to `consoleText` folder in cli and type `rm -rf .git/`
 
-
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 ### Options:
 * #### `wordsToWrite`
 You can use only one word `wordsToWrite={["Hello World"]}`\
