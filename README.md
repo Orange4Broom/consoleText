@@ -15,10 +15,13 @@
 
 
 ### Options:
-#### `wordsToWrite`
+* #### `wordsToWrite`
 You can use only one word `wordsToWrite={["Hello World"]}`\
 or more words `wordsToWrite={["Hello World", "Hello mom", "I like my code"]}`\
 
-#### `colors`
+* #### `colors`
 Here you can also use one `colors={["white"]}`\
 or multiple colors `colors={["white", "pink", "green"]}`\
+
+
+* #### **For more customization you can use `consoleText.css`**
