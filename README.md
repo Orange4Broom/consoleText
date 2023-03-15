@@ -1,4 +1,4 @@
-# consoleText
+# ConsoleText
 
 ### How to use it?
 
@@ -14,8 +14,8 @@
 
 
 
-#### Options:
-### `wordsToWrite`
+### Options:
+#### `wordsToWrite`
 You can use only one word `wordsToWrite={["Hello World"]}`\
 or more words `wordsToWrite={["Hello World", "Hello mom", "I like my code"]}`\
 
